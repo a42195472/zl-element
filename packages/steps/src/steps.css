@@ -1,0 +1,30 @@
+.zl-steps {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.zl-steps-line {
+    position: absolute;
+    height: 2px;
+    top: 50%;
+    left: 24px;
+    right: 24px;
+    transform: translateY(-50%);
+    z-index: 1;
+    background: rgb(223, 231, 239);
+}
+
+.zl-step {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    border: 2px solid;
+    border-radius: 50%;
+    font-weight: 700;
+    background-color: white;
+    z-index: 2;
+    box-sizing: border-box;
+}
