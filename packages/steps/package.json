@@ -1,5 +1,5 @@
 {
-    "name": "zl-steps",
+    "name": "zl-steps-study",
     "version": "0.0.4",
     "description": "",
     "main": "index.js",
@@ -9,5 +9,5 @@
     "keywords": [],
     "author": "",
     "license": "MIT",
-    "gitHead": "d5cc02007663262d1212c6f4cc466af08d205a6a"
+    "gitHead": "ec7ec19ab9477dd4689c70d60fcd8ae6994e42d3"
 }
